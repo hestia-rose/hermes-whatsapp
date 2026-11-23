@@ -1,0 +1,11 @@
+{
+  "name": "hermes-wa-pair",
+  "version": "1.0.0",
+  "private": true,
+  "description": "One-off pairing-code helper for the Hermes WhatsApp bridge (shares the bridge session dir)",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.24",
+    "pino": "^9.0.0"
+  }
+}
