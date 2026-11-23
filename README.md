@@ -129,3 +129,9 @@ Dari **nomor utama** kamu, kirim chat apa saja ke nomor bot (mis. `halo`). Herme
 ## Lisensi
 
 MIT — lihat `LICENSE`.
+
+## Bukti: Hermes Aktif di WhatsApp
+
+Screenshot chat dengan bot Hermes (Agent Hestia) di WhatsApp: bot menjawab sapaan dan perintah /sethome berhasil dipasang.
+
+![Bukti Hermes aktif di WhatsApp](bukti-hermes-aktif.jpg)
